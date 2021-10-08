@@ -10,5 +10,6 @@ function changeCircleColor(color){
     const circle = document.querySelector('.circle')
     circle.style.background = color //para que valla cambiando de color
     //llamamos circe le damos un estilo un fondo y le pasamos el parametro color 
+    //lo igulamos al color
 }
 
